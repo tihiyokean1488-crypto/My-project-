@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f0f8ff;
+  padding: 20px;
+}
+
+h1 { color: #2E86DE; }
+
+#menu, #game, #leaderboard {
+  margin: 20px auto;
+  padding: 20px;
+  border: 2px solid #2E86DE;
+  border-radius: 10px;
+  width: 90%;
+  max-width: 400px;
+  background-color: #ffffff;
+}
+
+button { padding: 10px 20px; margin-top: 10px; }
+input { padding: 5px; width: 80px; text-align: center; }
